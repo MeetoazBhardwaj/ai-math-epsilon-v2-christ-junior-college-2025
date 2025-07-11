@@ -1,0 +1,96 @@
+
+# AI Mathematics Seminar: Interactive Resource Pack
+
+Welcome to the **AI + Mathematics Resource Pack** from AI Skillverse. This document serves as your interactive, click-to-copy-ready guide to using AI tools like ChatGPT, DeepSeek, and Perplexity in the mathematics classroom.
+
+---
+
+## 🔧 Tools Covered and Their Tech Differences
+
+| Tool        | Underlying Model        | Strengths in Classroom                 | Sample Use Cases                       |
+|-------------|--------------------------|----------------------------------------|----------------------------------------|
+| **ChatGPT** | GPT-4o (Transformer)     | General-purpose, multilingual, reliable| Prompt engineering, solving word problems |
+| **DeepSeek**| Open-source LLM (Hybrid) | Detailed explanations, transparency     | Model comparisons, prompt tweaking     |
+| **Perplexity** | LLM + Search engine  | Fast, citation-focused                  | Research-backed answers, live facts    |
+
+---
+
+## 🧑‍🏫 How Teachers Can Use These Tools
+
+- **Explain Complex Topics**: Ask AI to simplify or break down tough topics like Vectors or Limits.
+- **Generate Content**: Get AI to produce quizzes, worksheets, or simulation scripts instantly.
+- **Feedback and Analysis**: Upload Excel files to get insights into class performance.
+- **Peer Simulation**: Model "student questions" and answer sessions.
+
+---
+
+## 🔮 Prompt Engineering: The Heart of AI Use
+
+### 🧪 Base Prompt
+```prompt
+Explain trigonometry to a 10-year-old who has never heard of it.
+```
+
+### 🧪 Level 2 - Enhanced Prompt
+```prompt
+Explain the basics of trigonometry to a curious 10-year-old using real-life examples and visuals.
+```
+
+### 🧪 Level 3 - Expert Prompt
+```prompt
+You are a master math teacher. Use a story involving a mountain and a shadow to explain trigonometry to a 10-year-old in a way that they can draw it themselves.
+```
+
+---
+
+## 🧠 Generate a Quiz using AI
+
+```prompt
+Create a 10-question multiple-choice quiz on the topic of Vectors in Class 11 Maths. Include 1 correct answer and 3 distractors per question.
+```
+
+---
+
+## 📊 Excel Template for Student Quiz Marks
+
+We recommend a basic format:
+
+| Student Name | Q1 | Q2 | Q3 | Q4 | ... | Q10 | Total Score |
+|--------------|----|----|----|----|-----|------|-------------|
+| Student 1    | ✓  | ✗  | ✓  | ✓  |     |      | 7           |
+
+You can download the template here: **[AI_Math_Quiz_Template.xlsx](AI_Math_Quiz_Template.xlsx)**
+
+---
+
+## 📈 ChatGPT Prompts to Analyze Quiz Marks
+
+```prompt
+Based on this Excel sheet of quiz marks, identify:
+1. The question with the most incorrect answers.
+2. Students in the top 10%, middle 60%, and bottom 30%.
+3. Topics students struggled with most.
+```
+
+```prompt
+Upload the quiz marksheet and write a detailed performance report for the class. Highlight learning gaps and suggest follow-up topics.
+```
+
+---
+
+## 📬 Want More?
+
+- This GitHub repo will be **continuously updated** with:
+  - New prompt examples
+  - Student-ready activities
+  - Excel tools for classroom analysis
+  - AI integration tips for NEP 2020
+
+### 🟢 Join our free WhatsApp Community for updates, prompt sharing, and AI teaching help:
+[Click to Join WhatsApp Group](https://chat.whatsapp.com/FakeJoinLinkHere)
+
+---
+
+Built with ❤️ by **AI Skillverse** | www.aiskillverse.in
+
+Follow us for more tools, training, and support.
