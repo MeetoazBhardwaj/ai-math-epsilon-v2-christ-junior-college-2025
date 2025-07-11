@@ -1,4 +1,3 @@
-"""
 # 🤖 AI x Mathematics: Seminar Resource Pack (Epsilon V 2.0)
 
 This repository contains official resources from the **AI-integrated Mathematics Seminar** held at **Christ Junior College, Bengaluru**, hosted by the **Department of Mathematics** as part of **Epsilon V 2.0** on **10th July 2025**.
@@ -40,5 +39,11 @@ Join our growing **WhatsApp Community** for new resources, peer support, and pro
 
 ---
 
+
+## 🔗 Meet the Trainer
+
+For collaborations, mentorship, or queries, reach out via:
+[![LinkedIn](https://www.linkedin.com/in/meetoaz-bhardwaj-0bb5762a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+
 Made with ❤️ by **AI Skillverse** | www.aiskillverse.in
-"""
