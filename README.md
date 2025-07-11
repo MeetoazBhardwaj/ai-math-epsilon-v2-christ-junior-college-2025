@@ -35,7 +35,7 @@ We are continuously expanding this repository. Expect regular updates including:
 
 ### ✅ Stay updated & contribute:
 Join our growing **WhatsApp Community** for new resources, peer support, and prompt-sharing:
-👉 [Click to Join WhatsApp Group]([https://chat.whatsapp.com/FakeJoinLinkHere](https://chat.whatsapp.com/ITefoASm1lI7PEogOO4uH5?mode=r_c))
+👉 [Click to Join WhatsApp Group]([Join Here](https://chat.whatsapp.com/ITefoASm1lI7PEogOO4uH5?mode=r_c))
 
 ---
 
