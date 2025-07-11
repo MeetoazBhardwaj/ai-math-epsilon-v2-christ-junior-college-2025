@@ -43,7 +43,7 @@ Join our growing **WhatsApp Community** for new resources, peer support, and pro
 ## 🔗 Meet the Trainer
 
 For collaborations, mentorship, or queries, reach out via:
-[![LinkedIn](https://www.linkedin.com/in/meetoaz-bhardwaj-0bb5762a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[LinkedIn](https://www.linkedin.com/in/meetoaz-bhardwaj-0bb5762a7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bo5oURQP1T1eZ%2FlgTU2RCEQ%3D%3D)
 
 
 Made with ❤️ by **AI Skillverse** | www.aiskillverse.in
