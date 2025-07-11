@@ -19,7 +19,7 @@ This repository contains official resources from the **AI-integrated Mathematics
 - `AI_Math_Seminar_Resource_Pack.mdown` – Main clickable, markdown-based resource guide
 - `assets/AI_Math_Quiz_Template.xlsx` – Excel marksheet template for quiz tracking
 - `prompts/` – Curated prompt examples for teaching, quizzes, and performance analysis
-- `visuals/` – (Optional) Session photos or student work snapshots
+- `visuals/` – Session photos, snapshots
 
 ---
 
